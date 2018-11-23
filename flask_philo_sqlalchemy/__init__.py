@@ -1,3 +1,5 @@
+__version__ = '0.1.0'
+
 def syncdb(pool=None):
     """
     Create tables if they don't exist
